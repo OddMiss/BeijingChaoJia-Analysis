@@ -10,7 +10,7 @@ It’s nice to meet you! This framework focuses on analyzing the official articl
 
 ![image](https://github.com/user-attachments/assets/ca5f47f4-e3da-462e-9218-f427034707b3)
 
-## Save_Webpage v2 (2025.01.03)
+## Save_Webpage v2 (2025.1.3)
 
 - Use Edge browser to save webpage as PDF
 - Add a function to convert PDF to text, which can detect if the web is blocked and the Internet status
