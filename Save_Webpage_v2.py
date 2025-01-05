@@ -115,7 +115,7 @@ if __name__ == "__main__":
     options.add_argument('--enable-print-browser') # 这一行试了，可用可不用
     options.add_argument('--kiosk-printing')  # 静默打印，无需用户点击打印页面的确定按钮
     options.add_experimental_option('prefs', prefs)
-    service = Service(executable_path="D:/edgedriver_win64/msedgedriver.exe") # 谷歌浏览器驱动路径
+    service = Service(executable_path="D:/edgedriver_win64/msedgedriver.exe") # Edge浏览器驱动路径
     driver = webdriver.Edge(service=service, options=options)
 
     for filename in os.listdir(Link_Path):
