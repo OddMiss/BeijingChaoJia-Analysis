@@ -16,5 +16,6 @@ It’s nice to meet you! This framework focuses on analyzing the official articl
 - Add a function to convert PDF to text, which can detect if the web is blocked and the Internet status
 - Add CMD interface
 - Attention: some pictures in the webpage may not be saved in the PDF file, so you need to check the PDF file manually.
+- Note: Download Webdriver first (Edge webdrive or others). (Edge webdriver download link: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH#downloads)
 
 ![image](https://github.com/user-attachments/assets/dcad03c2-ccbe-4b3a-90ee-57980a023d24)
